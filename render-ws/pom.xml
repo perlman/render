@@ -45,7 +45,7 @@
                  -->
                 <groupId>pl.project13.maven</groupId>
                 <artifactId>git-commit-id-plugin</artifactId>
-                <version>2.1.13</version> <!-- using slightly older version that works with maven 3.0 -->
+                <version>3.0.1</version> <!-- using slightly older version that works with maven 3.0 -->
                 <executions>
                     <execution>
                         <id>get-git-info</id>
