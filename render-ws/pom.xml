@@ -66,6 +66,9 @@
                         <excludeProperty>git.commit.user.email</excludeProperty>
                         <excludeProperty>git.build.user.email</excludeProperty>
                     </excludeProperties>
+                    <gitDescribe>
+						<always>true</always>
+				    </gitDescribe>
                 </configuration>
 
             </plugin>
